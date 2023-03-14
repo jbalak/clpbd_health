@@ -14,3 +14,6 @@ To refactor the code i have added three new helper functions which will be usefu
 fun idDef will check valid values or not
 fun getString to get string version of any data
 fun getHash to get hash of any string
+
+Added a config.js file to store all config data
+Added a helper.js file to store all helper functions
